@@ -1,0 +1,1 @@
+print(float(input("what is your total bill ? ")) * (float(input("\nWhat Pecentage are you tipping ? %")) / 100 + 1) / (int(input("\nAmung how many people is this being devided ? "))))
